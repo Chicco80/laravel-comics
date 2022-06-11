@@ -6,7 +6,7 @@
 @endsection
 
 @section('mainContent')
-<div class="container-fluid bg-dark">
+<div class="container-fluid rel bg-dark">
     <div class="container py-5">
         <div class="button-up ">
             <input class="  bg-primary p-2 text-white" type="button" value="CURRENT SERIES">
@@ -43,7 +43,7 @@
 
 <style>
 
-    .container-fluid{
+    .rel{
         position: relative;
     }
     .button-up{
